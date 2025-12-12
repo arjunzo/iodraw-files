@@ -19,8 +19,8 @@
         <mxCell id="sJ_NIOc5nVh4Y1u8lJwQ-5" value="目录和文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="90" y="180" width="610" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sJ_NIOc5nVh4Y1u8lJwQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="sJ_NIOc5nVh4Y1u8lJwQ-6" value="MBR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
