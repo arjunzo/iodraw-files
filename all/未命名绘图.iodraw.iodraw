@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w5l_uySK00I9XVju-iKk-12" value="函数调用结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="70" width="80" height="60" as="geometry" />
+          <mxGeometry x="520" y="70" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
