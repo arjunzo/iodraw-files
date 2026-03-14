@@ -7,7 +7,7 @@
         <mxCell id="w5l_uySK00I9XVju-iKk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w5l_uySK00I9XVju-iKk-1" target="w5l_uySK00I9XVju-iKk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w5l_uySK00I9XVju-iKk-1" value="用户输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w5l_uySK00I9XVju-iKk-1" value="用户输入问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="181" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w5l_uySK00I9XVju-iKk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w5l_uySK00I9XVju-iKk-2" target="w5l_uySK00I9XVju-iKk-4">
@@ -26,7 +26,7 @@
           <mxGeometry x="468" y="443" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w5l_uySK00I9XVju-iKk-7" value="回答" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="445" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="443" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w5l_uySK00I9XVju-iKk-9" value="程序处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="281" width="120" height="60" as="geometry" />
