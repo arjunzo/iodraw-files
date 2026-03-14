@@ -1,27 +1,9 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="c5UsgX2Henq67fdAJ7PZ">
-    <mxGraphModel dx="1434" dy="906" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sJ_NIOc5nVh4Y1u8lJwQ-1" value="引导" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="90" y="150" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sJ_NIOc5nVh4Y1u8lJwQ-2" value="保留扇区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="150" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sJ_NIOc5nVh4Y1u8lJwQ-3" value="FAT 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="150" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sJ_NIOc5nVh4Y1u8lJwQ-4" value="FAT 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="490" y="150" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sJ_NIOc5nVh4Y1u8lJwQ-5" value="目录和文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="90" y="180" width="610" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="sJ_NIOc5nVh4Y1u8lJwQ-6" value="MBR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="70" width="60" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
