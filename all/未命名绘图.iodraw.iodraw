@@ -10,7 +10,7 @@
         <mxCell id="w5l_uySK00I9XVju-iKk-1" value="问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="71" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w5l_uySK00I9XVju-iKk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="w5l_uySK00I9XVju-iKk-2" target="w5l_uySK00I9XVju-iKk-4">
+        <mxCell id="w5l_uySK00I9XVju-iKk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5l_uySK00I9XVju-iKk-2" target="w5l_uySK00I9XVju-iKk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w5l_uySK00I9XVju-iKk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="w5l_uySK00I9XVju-iKk-2" target="w5l_uySK00I9XVju-iKk-7">
