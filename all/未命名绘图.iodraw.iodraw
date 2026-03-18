@@ -17,16 +17,16 @@
           <mxGeometry x="122" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpvPHNSmULPFhmifA_VF-5" value="3.3V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="144" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="144" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpvPHNSmULPFhmifA_VF-6" value="GND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="334" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="324" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpvPHNSmULPFhmifA_VF-7" value="39" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="264" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpvPHNSmULPFhmifA_VF-8" value="38" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="206" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="204" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpvPHNSmULPFhmifA_VF-9" value="ESP32-S3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="116" width="120" height="28" as="geometry" />
