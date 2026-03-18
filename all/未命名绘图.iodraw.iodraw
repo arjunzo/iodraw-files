@@ -16,6 +16,9 @@
         <mxCell id="NpvPHNSmULPFhmifA_VF-4" value="GND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="122" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NpvPHNSmULPFhmifA_VF-5" value="3.3V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="148" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
