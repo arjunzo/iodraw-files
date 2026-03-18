@@ -22,8 +22,11 @@
         <mxCell id="NpvPHNSmULPFhmifA_VF-6" value="GND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NpvPHNSmULPFhmifA_VF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NpvPHNSmULPFhmifA_VF-7" value="39" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NpvPHNSmULPFhmifA_VF-8" value="39" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
