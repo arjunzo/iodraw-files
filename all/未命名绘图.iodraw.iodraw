@@ -16,16 +16,16 @@
         <mxCell id="NpvPHNSmULPFhmifA_VF-4" value="GND" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="122" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NpvPHNSmULPFhmifA_VF-5" value="3.3V" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NpvPHNSmULPFhmifA_VF-5" value="3.3V" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="240" y="144" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NpvPHNSmULPFhmifA_VF-6" value="GND" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NpvPHNSmULPFhmifA_VF-6" value="GND" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="240" y="324" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NpvPHNSmULPFhmifA_VF-7" value="39" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NpvPHNSmULPFhmifA_VF-7" value="39" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="240" y="264" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NpvPHNSmULPFhmifA_VF-8" value="38" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NpvPHNSmULPFhmifA_VF-8" value="38" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="240" y="204" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpvPHNSmULPFhmifA_VF-9" value="ESP32-S3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
