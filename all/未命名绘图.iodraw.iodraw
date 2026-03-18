@@ -7,7 +7,7 @@
         <mxCell id="NpvPHNSmULPFhmifA_VF-10" value="MLX9041" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;spacingTop=6;" vertex="1" parent="1">
           <mxGeometry x="92" y="100" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="NpvPHNSmULPFhmifA_VF-9" value="ESP32-S3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;verticalAlign=top;spacingTop=5;" vertex="1" parent="1">
+        <mxCell id="NpvPHNSmULPFhmifA_VF-9" value="ESP32-S3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;spacingTop=5;" vertex="1" parent="1">
           <mxGeometry x="250" y="100" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="NpvPHNSmULPFhmifA_VF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#009900;" edge="1" parent="1" source="NpvPHNSmULPFhmifA_VF-1" target="NpvPHNSmULPFhmifA_VF-5">
